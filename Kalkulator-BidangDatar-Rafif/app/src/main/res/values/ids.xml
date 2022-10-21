@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="displayl" type="id" />
+    <item name="displayk" type="id" />
+    <item name="persegi" type="id" />
+    <item name="lingkaran" type="id" />
+    <item name="pad" type="id" />
+    <item name="lt" type="id" />
+    <item name="segitiga" type="id" />
+</resources>
